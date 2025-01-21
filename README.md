@@ -155,4 +155,16 @@ Both the Excel formula and the SQL query solve the problem well, but the SQL sol
 
 The task lacked some details, such as whether all readings in a sequence or only the last one should be marked as "Nevierohodný." Providing clearer requirements would make the implementation more accurate. Additionally, visualizing the flagged sequences or providing detailed logs could help improve usability and verification of results.
 
+## Results Screenshots
+![image](https://github.com/user-attachments/assets/8716d00a-c7bf-4bb3-a81e-a8adf69c7cd6)
+
+![image](https://github.com/user-attachments/assets/cea1bf1b-b92b-4850-8110-ba18010cce3e)
+
+![image](https://github.com/user-attachments/assets/0085999c-0446-400f-a45d-31106a98ae41)
+
+![image](https://github.com/user-attachments/assets/d224a77d-d9a0-4d81-baaa-2171b5b7a149)
+
+
+
+
 
